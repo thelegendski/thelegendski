@@ -1,11 +1,11 @@
 /** 
- * This code has been assembled as an example of how to bot for the guardians.
+ * This code has been assembled as an example of how to bot for the Guardians.
 */
 
 /** This is a node.js file
  * To run, you need node installed. 
  * You also need node-fetch and fs installed via npm (node package manager)
- * You also need my farmPointsNode.js file in the same folder as this file
+ * You also need my farmPointsNode.js file in the same folder as this file [ski: I have attached this file]
 */
 
 //Import fetch
