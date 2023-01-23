@@ -22,3 +22,5 @@ currently learnin' C# an' Kotlin.</p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </div>
+
+![](https://hit.yhype.me/github/profile?user_id=108815730)
