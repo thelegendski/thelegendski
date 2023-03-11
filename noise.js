@@ -1,4 +1,4 @@
-data.noise = {
+const noiseData = {
     ywrapb: 4,
     ywrap: 16,
     zwrapb: 8,
@@ -9,8 +9,8 @@ data.noise = {
     iter: min(width, height)
 }
 const scaled_cosine = t => ((6*t - 15)*t + 10)*t*t*t, 
-noiseDetail = (o, f) => [data.noise.octaves, data.noise.falloff] = [o, f]
-const p = data.noise
+noiseDetail = (o, f) => [noiseData.octaves, noiseData.falloff] = [o, f]
+const p = noiseData
 const noise = (x, y=0, z=0) => {
     //localize globals
     const random = Math.random, cos = Math.cos, PI = Math.PI
