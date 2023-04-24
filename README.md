@@ -1,4 +1,4 @@
-<div align = "center"><img width = "300" height = "300" src = "https://raw.githubusercontent.com/thelegendski/thelegendski/main/download.png"></div>
+<div align = "center"><img width = "300" height = "300" src = "https://raw.githubusercontent.com/thelegendski/thelegendski/main/logo%204-24-2023.png"></div>
 <h1 align = "center">ski</h1>
 
 <p>hi, :D! i'm thelegendski.
