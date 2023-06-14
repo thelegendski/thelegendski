@@ -22,8 +22,7 @@ JS is the best. fight me.</p>
     <a href = "https://dev.to/thelegendski"><img src= "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)"></a>
     <img src = "https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
     <img src = "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-    
+    <img src = "https://visitcount.itsvg.in/api?id=thelegendski&label=views&color=8&icon=6&pretty=true">
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=108815730)
-[![](https://visitcount.itsvg.in/api?id=thelegendski&label=views&color=8&icon=6&pretty=true)](https://visitcount.itsvg.in)
