@@ -26,3 +26,4 @@ JS is the best. fight me.</p>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=108815730)
+[![](https://visitcount.itsvg.in/api?id=thelegendski&label=views&color=8&icon=6&pretty=true)](https://visitcount.itsvg.in)
