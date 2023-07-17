@@ -1,10 +1,7 @@
-<div align = "center"><img width = "300" height = "300" src = "https://raw.githubusercontent.com/thelegendski/thelegendski/main/logo%204-24-2023.png"></div>
-<h1 align = "center">ski</h1>
+<div align = "center"><img width = "300" style = "border-radius: 100%;" src = "https://raw.githubusercontent.com/thelegendski/thelegendski/resume/me.png"></div>
+<h1 align = "center">Ethan Moon</h1>
 
-<p>hi, :D! i'm thelegendski.
-
-i'm afull stack web dev with experience in pretty much every major language.
-JS is the best. fight me.</p>
+<p>Hey there! I am Ethan Moon (@thelegendski), a full stack web developer and open-source software developer with experience in pretty much every major language.</p>
 
 <div align = "center" style = "display = flex; flex-direction: column;">
     <img src = "https://github-readme-stats.vercel.app/api?username=thelegendski&show_icons=true&theme=tokyonight">
@@ -20,9 +17,15 @@ JS is the best. fight me.</p>
 </div>
 <div align="center">
     <a href = "https://dev.to/thelegendski"><img src= "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)"></a>
-    <img src = "https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-    <img src = "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-    <img src = "https://visitcount.itsvg.in/api?id=thelegendski&label=views&color=8&icon=6&pretty=true">
+    <p> JavaScript </p>
+    <p> HTML5 </p>
+    <p> CSS3 </p>
+    <p> Node.js </p>
+    <p> Python </p>
+    <p> C++ </p>
+    <p> Kotlin </p>
+    <p> C# </p>
+    <p> Java </p>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=108815730)
