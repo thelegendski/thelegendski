@@ -1,4 +1,4 @@
-<div align = "center"><img width = "300" style = "border-radius: 100%;" src = "https://raw.githubusercontent.com/thelegendski/thelegendski/resume/me.png"></div>
+<div align = "center"><img width = "300" style = "border-radius: 100%;" src = "https://github.com/thelegendski/thelegendski/blob/main/me.png?raw=true"></div>
 <h1 align = "center">Ethan Moon</h1>
 
 <p>Hey there! I am Ethan Moon (@thelegendski), a full stack web developer and open-source software developer with experience in pretty much every major language.</p>
