@@ -8,7 +8,7 @@ const noiseData = {
     perlin: undefined,
     iter: min(width, height)
 }
-const scaled_cosine = t => ((6*t - 15)*t + 10)*t*t*t, 
+const scaled_cosine = t => ((6*t - 15)*t + 10)*(t**3), 
 noiseDetail = (o, f) => [noiseData.octaves, noiseData.falloff] = [o, f]
 const p = noiseData
 const noise = (x, y=0, z=0) => {
